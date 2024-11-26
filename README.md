@@ -64,6 +64,14 @@
     <p>Alinea will start the night off right frying up some live music, and DJ Lojanie to follow serving up a loaded sundae of a set.</p>
     <p>This time and space exists for freedom of expression, prioritizing space to dance, leaving our phones aside, and making new friends :) Let’s make the most of it together.</p>
     <p><em>More information, plus ticket access, soon. Stay tuned!</em></p>
+    <p> ---------------------------------------------------------------------------------------------------- </p>
+    <p>La musique est dans notre ADN, c’est un langage universel. Des sons des instruments live et des harmonies vocales, au rythme répétitif du "four on the floor", nous ressentons tout. Elle n’a pas de limites et possède le pouvoir de nous rassembler.</p>
+    <p>Rejoignez-nous le 21 décembre, la nuit la plus longue de l’année, dans le magnifique loft de NOMADLife, pour une soirée remplie de soul…</p>
+    <p></strong>Le Soul Sequence!</strong></p>
+    <p>Alinea ouvrira la soirée en remuant de la musique live, et DJ Lojanie prendra le relais avec un set chargé comme un sundae généreux.</p>
+    <p>Cet espace-temps est dédié à la liberté d’expression, à la danse avant tout, à laisser nos téléphones de côté et à faire de nouvelles rencontres :) Faisons-en un moment inoubliable ensemble.</p>
+    <p>Plus d’informations à venir, restez connectés !</p>
+
 
 </body>
 </html>
