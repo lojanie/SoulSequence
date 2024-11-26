@@ -1,77 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Soul Sequence</title>
-    <link href="https://imgur.com/gallery/soul-sequence-banner-RWlbtrW" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(to bottom, #fef6c7, #f5d100);
-            color: #060332;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            text-align: center;
-        }
-        h1 {
-            font-size: 36px;
-            color: #444;
-            margin-bottom: 10px;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.8;
-            margin: 10px 20px;
-            max-width: 800px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        .footer {
-            margin-top: 20px;
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
-</head>
-<body>
-<!-- Centered Photo -->
-<div class="content" style="text-align: center; margin-top: 20px;">
-    <!-- Adding styles for the iframe -->
-    <iframe width="50%" height="400px" frameborder="0" style="display: none;"></iframe>
-    
-    <!-- Styling the image -->
-    <img src="https://i.imgur.com/jlDa04O.png" 
-         alt="Soul Sequence Banner" 
-         style="max-width: 50%; height: auto; margin-top: 10px; display: block; margin-left: auto; margin-right: auto;">
-</div>
+![Soul Sequence](https://i.imgur.com/jlDa04O.png)
 
-    <!-- Event Text -->
-    <h1>It's time to groove</h1>
-    <p>Music is in our DNA, it’s a universal language. Through the sound of live instruments and vocal harmonies, to the repetitive rhythm of the four on the floor; we feel it all. It has no limits, and harnesses the power to bring us together.</p>
-    <p>Join us on December 21st, the longest night of the year, in the beautiful loft of NOMADLife cooking up a sequence of soul…</p>
-    <p><strong>The Soul Sequence!</strong></p>
-    <p>Alinea will start the night off right frying up some live music, and DJ Lojanie to follow serving up a loaded sundae of a set.</p>
-    <p>This time and space exists for freedom of expression, prioritizing space to dance, leaving our phones aside, and making new friends :) Let’s make the most of it together.</p>
-    <p><em>More information, plus ticket access, soon. Stay tuned!</em></p>
-    <p> ---------------------------------------------------------------------------------------------------- </p>
-    <p>La musique est dans notre ADN, c’est un langage universel. Des sons des instruments live et des harmonies vocales, au rythme répétitif du "four on the floor", nous ressentons tout. Elle n’a pas de limites et possède le pouvoir de nous rassembler.</p>
-    <p>Rejoignez-nous le 21 décembre, la nuit la plus longue de l’année, dans le magnifique loft de NOMADLife, pour une soirée remplie de soul…</p>
-    <p></strong>Le Soul Sequence!</strong></p>
-    <p>Alinea ouvrira la soirée en remuant de la musique live, et DJ Lojanie prendra le relais avec un set chargé comme un sundae généreux.</p>
-    <p>Cet espace-temps est dédié à la liberté d’expression, à la danse avant tout, à laisser nos téléphones de côté et à faire de nouvelles rencontres :) Faisons-en un moment inoubliable ensemble.</p>
-    <p>Plus d’informations à venir, restez connectés !</p>
+# It's time to groove
 
+Music is in our DNA, it’s a universal language. Through the sound of live instruments and vocal harmonies, to the repetitive rhythm of the four on the floor; we feel it all. It has no limits, and harnesses the power to bring us together.
 
-</body>
-</html>
+Join us on December 21st, the longest night of the year, in the beautiful loft of NOMADLife cooking up a sequence of soul…
+
+### The Soul Sequence!
+
+Alinea will start the night off right frying up some live music, and DJ Lojanie to follow serving up a loaded sundae of a set.
+This time and space exists for freedom of expression, prioritizing space to dance, leaving our phones aside, and making new friends :) Let’s make the most of it together.
+
+*More information, plus ticket access, soon. Stay tuned!*
+
+---
+
+La musique est dans notre ADN, c’est un langage universel. Des sons des instruments live et des harmonies vocales, au rythme répétitif du "four on the floor", nous ressentons tout. Elle n’a pas de limites et possède le pouvoir de nous rassembler.
+
+Rejoignez-nous le 21 décembre, la nuit la plus longue de l’année, dans le magnifique loft de NOMADLife, pour une soirée remplie de soul…
+
+### Le Soul Sequence!
+
+Alinea ouvrira la soirée en remuant de la musique live, et DJ Lojanie prendra le relais avec un set chargé comme un sundae généreux.
+Cet espace-temps est dédié à la liberté d’expression, à la danse avant tout, à laisser nos téléphones de côté et à faire de nouvelles rencontres :) Faisons-en un moment inoubliable ensemble.
+
+*Plus d’informations à venir, restez connectés !*
