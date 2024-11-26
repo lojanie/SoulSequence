@@ -15,13 +15,14 @@ This time and space exists for freedom of expression, prioritizing space to danc
 
 ---
 
-La musique est dans notre ADN, c’est un langage universel. Des sons des instruments live et des harmonies vocales, au rythme répétitif du "four on the floor", nous ressentons tout. Elle n’a pas de limites et possède le pouvoir de nous rassembler.
+La musique fait partie de notre ADN, c’est un langage universel. Depuis le son des instruments et des harmonies vocales, au rythme répétitif du "four on the floor", nous ressentons tout. Elle n’a pas de limites et c’est ce qui lui donne le don de nous rassembler.
 
 Rejoignez-nous le 21 décembre, la nuit la plus longue de l’année, dans le magnifique loft de NOMADLife, pour une soirée remplie de soul…
+The Soul Sequence !
 
-### Le Soul Sequence!
+### The Soul Sequence!
 
-Alinea ouvrira la soirée en remuant de la musique live, et DJ Lojanie prendra le relais avec un set chargé comme un sundae généreux.
+Alinea ouvrira la soirée aux fourneaux de la musique live, et DJ Lojanie prendra le relais avec un set chargé comme un généreux sundae.
 Cet espace-temps est dédié à la liberté d’expression, à la danse avant tout, à laisser nos téléphones de côté et à faire de nouvelles rencontres :) Faisons-en un moment inoubliable ensemble.
 
-*Plus d’informations à venir, restez connectés !*
+*Plus d’informations à venir, restez à l'antenne !*
