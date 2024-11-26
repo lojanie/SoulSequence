@@ -1,7 +1,5 @@
-<p align="center">
 ![Soul Sequence](https://i.imgur.com/jlDa04O.png)
 
-<p align="center">
 # It's time to groove
 
 Music is in our DNA, it’s a universal language. Through the sound of live instruments and vocal harmonies, to the repetitive rhythm of the four on the floor; we feel it all. It has no limits, and harnesses the power to bring us together.
@@ -27,5 +25,3 @@ Alinea ouvrira la soirée en remuant de la musique live, et DJ Lojanie prendra l
 Cet espace-temps est dédié à la liberté d’expression, à la danse avant tout, à laisser nos téléphones de côté et à faire de nouvelles rencontres :) Faisons-en un moment inoubliable ensemble.
 
 *Plus d’informations à venir, restez connectés !*
-</p>
-</p>
